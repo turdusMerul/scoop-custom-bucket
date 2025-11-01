@@ -1,0 +1,13 @@
+{
+    "version": "3.7.3",
+    "description": "Hydra Launcher is an open-source gaming platform created to be the single tool that you need in order to manage your gaming library. Hydra is written in Node.js (Electron, React, Typescript) and Python.",
+    "homepage": "https://github.com/hydralauncher/hydra",
+    "license": "https://github.com/hydralauncher/hydra?tab=MIT-1-ov-file",
+    "notes": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hydralauncher/hydra/releases/download/v3.7.3/hydralauncher-3.7.3-portable.exe",
+            "hash": "sha256:37e9449940b565b6f833e255006ca22114d700bb68cc0617ff7c2d488ad7895d"
+        }
+    }
+}
